@@ -97,17 +97,3 @@ Fork the repo, create a feature branch, and submit a PR.
 💡 Author
 Atlas Project Team
 Feel free to connect or share feedback.
-
-yaml
-Copy code
-
----
-
-## 🎯 Want me to customize it?
-
-Tell me:
-- project purpose (dashboard, CRM, portfolio, etc.)
-- whether you use Tailwind / Redux / Router
-- whether API integration exists
-
-I can tailor the README to match your exact project.
